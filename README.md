@@ -21,22 +21,6 @@ I'm a **Web Developer** who loves to bring ideas to life in the browser. I am ex
 
 ### <p align="center">⚙️ My development environment </p>
 
-> I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://ohmyposh.dev/" target="_blank">Oh-My-Posh</a> for my terminal.
-
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-  <td valign="top" width="50%">
-
-#### 🖥️ Windows Power User
-
-![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
-![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
-![WSL](https://img.shields.io/badge/-WSL-000000?style=flat&logo=windows-subsystem-for-linux&logoColor=#FCC624)
-
-  </td>
-  <td valign="top" width="50%">
-
 #### 🐧 Linux Enthusiast
 
 I love working with Linux and Im always exploring new things in the vast open-source world.
@@ -46,9 +30,4 @@ I love working with Linux and Im always exploring new things in the vast open-so
 ![Debian](https://img.shields.io/badge/-Fedora-000000?style=flat&logo=fedora&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
-
-  </td>
-  </tr>
-  </table>
-</div>
 
